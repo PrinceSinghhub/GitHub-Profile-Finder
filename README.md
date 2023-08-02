@@ -7,8 +7,11 @@ Features
     - View the user's profile information, including their avatar, name, bio, location, and public repositories.
     - Click on a repository to see more details like the repository name, description, and the number of stars.
 
+### Live: https://check-your-github.netlify.app/
+
 ## Video 📷
-https://github.com/PrinceSinghhub/GitHub-Profile-Finder/assets/71000042/f9d274cc-e6fc-4d2f-b090-42be4656aae1
+
+https://github.com/PrinceSinghhub/GitHub-Profile-Finder/assets/71000042/f09f8dc7-99be-4713-be47-25997fb07f18
 
 ### Screenshots 🖼
 ![fhfgh](https://github.com/PrinceSinghhub/GitHub-Profile-Finder/assets/71000042/4f59fae6-8dfb-44e7-b2ff-21efb4cb1e1e)
