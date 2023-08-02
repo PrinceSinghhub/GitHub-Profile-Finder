@@ -10,8 +10,7 @@ Features
 ### Live: https://check-your-github.netlify.app/
 
 ## Video 📷
-
-https://github.com/PrinceSinghhub/GitHub-Profile-Finder/assets/71000042/f09f8dc7-99be-4713-be47-25997fb07f18
+https://github.com/PrinceSinghhub/GitHub-Profile-Finder/assets/71000042/c9fe95f3-9548-4982-9dc7-530ca6f8d71c
 
 ### Screenshots 🖼
 ![fhfgh](https://github.com/PrinceSinghhub/GitHub-Profile-Finder/assets/71000042/4f59fae6-8dfb-44e7-b2ff-21efb4cb1e1e)
